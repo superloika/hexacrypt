@@ -1,15 +1,10 @@
 # Hexacrypt
-
-
-## About
 Hexacrypt is a prototype of a mini algorithm for basic string encryption/decryption.
 It has a password feature to enhance encryption security.
 
 
-# Usage
+## Usage Example
 
-Example:
-	
 	from hexacrypt import *
 	
 	msg = "Hello World"
