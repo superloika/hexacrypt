@@ -1,12 +1,9 @@
-﻿# hexacrypt.py
+# hexacrypt.py
 # Hexacrypt
 # Basic String Encryption/Decryption Tool
 # Author: superloika (superloika.github.io)
 
 class Hexacrypt:
-
-    
-
     def __init__(self):
         super(Hexacrypt, self).__init__()
 
